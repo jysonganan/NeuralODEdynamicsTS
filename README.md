@@ -9,5 +9,5 @@ It also includes some applications of NeuralODE models in the time series modeli
 
 
 <p align="center">
-<img align="middle" src="./timeSeries_sim_NeuralODE.gif" alt="ODE Time Series Simulation" width="500" height="250" />
+<img align="middle" src="./timeSeries_sim_NeuralODE.gif" alt="ODE Time Series Simulation" width="800" height="800" />
 </p>
